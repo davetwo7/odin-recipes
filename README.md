@@ -1,1 +1,1 @@
-# odin-recipes
+The project that is being worked on is a basic recipe website. Some skills that I will use in this project is creating a repository on GitHub, making commits to Git, and basic application of HTML # odin-recipes
